@@ -17,7 +17,7 @@ Dynamic perturb with SIR model: https://colab.research.google.com/drive/1UnayQtY
 Glitch perturb: https://colab.research.google.com/drive/1lqe4tHEmfy8WxJ7FZofF7TKwP0-aB5mi?usp=sharing
 
 # Sample run
-In the notebooks, the results of the last run are shown.
+In the notebooks, the results of the last run are shown proving system behaviour.
 
 # Manual
 
