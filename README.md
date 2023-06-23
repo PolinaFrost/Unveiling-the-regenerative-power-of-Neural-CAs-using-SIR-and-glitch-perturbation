@@ -8,10 +8,10 @@ The images are taken from the Google folder: 102.png (demon mask), 1046.png (sle
 # Code
 The code for this project is written in GoogleCollab. The reason for this is that the baseline implementation we use is implemented in GoogleCollab, and, more importantly, the notebook requires a lot of memory to run.
 
-Baseline: 
-Static perturb with SIR model:
-Dynamic perturb with SIR model:
-Glitch perturb:
+Baseline: https://colab.research.google.com/drive/1WO9-2Q_XV3fBDG_DeqMZpBfe6FBfWkqa?usp=sharing
+Static perturb with SIR model: https://colab.research.google.com/drive/1GZlH95Fm6R8nTntsTaAeIifhe5mcKEdB?usp=sharing
+Dynamic perturb with SIR model: https://colab.research.google.com/drive/1UnayQtYUOss-dF-70FFMaNDGE8-kmGH3?usp=sharing
+Glitch perturb: https://colab.research.google.com/drive/1lqe4tHEmfy8WxJ7FZofF7TKwP0-aB5mi?usp=sharing
 
 # Sample run
 In the notebooks, the results of the last run are shown.
