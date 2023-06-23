@@ -21,6 +21,5 @@ In the notebooks, the results of the last run are shown.
 
 # Manual
 
-Glitch perturb: This notebook can be run with two training setups, as described in the report. It is possible for the user to change the setup in this line: results = train(model, args, data=get_dataset(k=16,_url_id=0), mode='glitch'). If the mode argument is set to 'glitch', then the notebook will follow the improved training procedure described in the report, else it will use the standard training already present in the original implementation of the neural CA
 
 
