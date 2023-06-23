@@ -21,5 +21,5 @@ In the notebooks, the results of the last run are shown.
 
 # Manual
 
-
+At the top of each notebook resides a code block with several constants that can be adjusted to run different experiments. The most interesting parameter is probably `IMAGE_URL_ID`, which can be used to change the target image (0 for heart, 1 for demon, 2 for accordion and 3 for sled). From this point, it should be possible to run the experiment by clicking `Runtime -> Run all`. If an error is thrown, this is likely because the link to the respective image expired (see section Dataset).
 
